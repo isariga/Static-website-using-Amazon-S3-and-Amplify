@@ -1,5 +1,7 @@
 # Static-website-using-Amazon-S3-and-Amplify
   This project involves deploying a static website (HTML, CSS, JavaScript) using AWS S3 for storage andAWS Amplify for continuous deployment and hosting.
+
+  
  Step 1: Create an S3 Bucket 
       Login to AWS console and create S3 bucket with unique name (eg.,mynew-webbucket1)
         ![create bucket](https://github.com/user-attachments/assets/b64ece07-b29c-4856-802f-d9ff7c4dca03)
